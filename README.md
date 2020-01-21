@@ -3,7 +3,7 @@ The goal of this project is to arrive at an optimized shape and design of a skin
 
 The design calculations include selection of material, finding the maximum bending stress acting on the stiffeners for given number of stiffeners, calculating the critical buckling stress for stiffeners, calculating the critical shear buckling stress for skin, number of stiffeners and stiffener spacing for a safe design. The fuselage section is to be designed for minimum weight while deciding design parameters such as Stiffener Cross-section Area, Stiffener Thickness, Number of stiffeners, Skin thickness
 
-Trade studies are done varying all these parameters with respect to one another. Parameters such as critical stresses, stiffener dimensions, critical stresses, safety factors are calculated. If the design passes the safety criteria, weight is calculated. Various trade studies are carried out keeping one parameter constant so as to observe the variations in other parameters. In the end, the minimum possible weight of the fuselage section for both metallic design and the composite design is determined.
+Design trade studies are carried out by varying these parameters with respect to one another. Parameters such as critical stresses, stiffener dimensions, critical stresses, safety factors are calculated. If the design passes the safety criteria, weight is calculated. Various trade studies are carried out keeping one parameter constant so as to observe the variations in other parameters. In the end, the minimum possible weight of the fuselage section for both metallic design and the composite design is determined.
 
 
 The following design steps are followed while carrying out design iterations in Matlab:
