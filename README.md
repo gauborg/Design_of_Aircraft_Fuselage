@@ -1,4 +1,4 @@
-# Design_of_Aircraft_Fuselage
+# Design of Aircraft Fuselage
 The goal of this project is to arrive at an optimized shape and design of a skin-stiffener aircraft fuselage by varying different design parameters, given the applied design loads of 10,000 lb shear, 200,000 lb-in torque and 500,000 in-lb bending moment.
 
 The design calculations include selection of material, finding the maximum bending stress acting on the stiffeners for given number of stiffeners, calculating the critical buckling stress for stiffeners, calculating the critical shear buckling stress for skin, number of stiffeners and stiffener spacing for a safe design. The fuselage section is to be designed for minimum weight while deciding design parameters such as Stiffener Cross-section Area, Stiffener Thickness, Number of stiffeners, Skin thickness
